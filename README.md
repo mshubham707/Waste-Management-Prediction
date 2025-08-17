@@ -1,4 +1,4 @@
-```markdown
+```
 # Waste Management and Recycling Prediction System
 
 ## Overview
