@@ -20,6 +20,7 @@ This project, developed for the Mini-Hackathon: Waste Management and Recycling i
   - `geopy`
 
 Install dependencies:
+```
 ```bash
 pip install -r requirements.txt
 ```
